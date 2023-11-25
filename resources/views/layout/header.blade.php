@@ -5,7 +5,6 @@
         table{
             box-align: center;
             width: 100%;
-            height:1cm;
             text-align: center;
         }
         </style>
@@ -14,12 +13,12 @@
 <body>
     <header style="align-content: center">
     <table border="5">
-        <tr>
-            <td><a href="/">Home</a></td>
-            <td><a href="/about">About</a></td>
-            <td><a href="/history">History</a></td>
-            <td><a href="/awards">Awards</a></td>
-            <td><a href="/contact">Contact</a></td>
+        <tr style="width: 80%;align:center">
+            <td><h3><a href="/">Home</a></h3></td>
+            <td><h3><a href="/about">About</a></h3></td>
+            <td><h3><a href="/history">History</a></h3></td>
+            <td><h3><a href="/awards">Awards</a></h3></td>
+            <td><h3><a href="/contact">Contact</a></h3></td>
         </tr>
     </table>
 </header> 
